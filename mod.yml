@@ -1,0 +1,30 @@
+title: Kairi HUD Original
+originalAuthor: iAyeCaptainKai
+description: Replace HUD colors with an original Kairi theme.
+game: kh1
+dependencies: 
+assets:
+- name: remastered\command2\uitex.bin\-10780.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\command2\uitex.bin\-10780.dds
+- name: remastered\command2\uitex.bin\-12800.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\command2\uitex.bin\-12800.dds
+- name: remastered\command2\uitex.bin\-a2c0.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\command2\uitex.bin\-a2c0.dds
+- name: remastered\command2\uitex.bin\UK_uitex_bin10780.dds
+  method: copy
+  platform: pc
+  package: kh1_first
+  source:
+  - name: remastered\command2\uitex.bin\UK_uitex_bin10780.dds
